@@ -1,19 +1,15 @@
 # ResumeGen
-ReactJS Basic Resume Generator which will generate customized Resume in few minutes on your requirements.
-Live resume editor.
 
-[Visit Now](https://resumegenx.netlify.app/) 🚀
+🚀 A ReactJS-based Resume Generator that helps you build a personalized and professional resume within minutes by filling out simple step-by-step sections.
 
 ## 🖥️ Tech Stack
 
 ![reactjs](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
+![css3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 ![chakraui](https://img.shields.io/badge/Chakra--UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white)&nbsp;
 
-Extras: React-To-Print
-
-**Deployed On:**
-
-![netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+Extras: React-To-Print, Custom Image Upload, Themed Layouts
 
 ## Sneak  Peek of Home Page 🙈 :
 ![Project Screenshot](src/images/my_project_screenshot_1.png)
@@ -24,9 +20,9 @@ Extras: React-To-Print
 
 If you want to contact me, you can reach me through below handles.
 
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jigar-sable)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/divyanshu-maurya-ved/)
 
-© 2022 Jigar Sable
+© 2025 Divyanshu Maurya
 
+Keep Exploring
 
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)

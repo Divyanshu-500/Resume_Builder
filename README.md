@@ -13,7 +13,6 @@ Extras: React-To-Print, Custom Image Upload, Themed Layouts
 
 ## Sneak  Peek of Home Page 🙈 :
 ![Project Screenshot](src/images/my_project_screenshot_1.png)
-![smartmockups_kyk0u3hp](https://user-images.githubusercontent.com/64949957/159115313-ae8bf72c-2a79-425d-8520-32b6ba3e0fcf.jpg)
 
 
 <h2>📬 Contact</h2>
